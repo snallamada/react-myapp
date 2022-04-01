@@ -1,0 +1,22 @@
+.travel{
+    color: red;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid green;
+}
+.mny{
+    color:blue;
+    font-size: 18px;
+    padding: auto;
+
+}
+.box1{
+    width:100px;
+    height:100px;
+    padding:30px;
+    border-radius: 30%;
+    border: 5px solid red;
+}
